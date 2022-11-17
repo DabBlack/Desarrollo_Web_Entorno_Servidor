@@ -1,0 +1,18 @@
+#divPrincipal {
+                margin: auto;
+                margin-top: 150px;
+                width: 20%;
+                border: black solid 1px;
+                border-radius: 10px;
+                box-shadow: 10px 10px 10px grey;
+                text-align: left;
+                padding: 10px 10px 10px 15px;
+                background-color: white;
+}
+body {
+    background-image: url(recursos/fondo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
