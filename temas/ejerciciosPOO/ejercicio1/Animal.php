@@ -62,14 +62,14 @@ class Animal {
     // Métodos
     
     public function moverse() {
-        
+        echo 'moviéndose';
     }
     
-    public function comer(){
-        
+    public function alimentarse(){
+        echo 'alimentándose';
     }
     
     public function dormir(){
-        
+        echo 'durmiendo';
     }
 }

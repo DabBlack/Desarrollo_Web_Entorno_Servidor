@@ -6,7 +6,7 @@
  */
 
 /**
- * Description of Perro
+ * Description of Canario
  *
  * @author DWES
  */

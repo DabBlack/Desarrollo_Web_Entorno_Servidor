@@ -5,8 +5,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/PHPClass.php to edit this template
  */
 
-/**
- * Description of Perro
+/**            
+ * Description of Pinguino
  *
  * @author DWES
  */

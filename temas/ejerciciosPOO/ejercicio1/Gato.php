@@ -6,7 +6,7 @@
  */
 
 /**
- * Description of Perro
+ * Description of Gato
  *
  * @author DWES
  */

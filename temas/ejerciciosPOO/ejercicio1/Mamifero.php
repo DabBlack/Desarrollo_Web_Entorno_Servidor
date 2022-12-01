@@ -6,7 +6,7 @@
  */
 
 /**
- * Description of mamifero
+ * Description of Mamifero
  *
  * @author DWES
  */
