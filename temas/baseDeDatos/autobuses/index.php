@@ -13,7 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         $conexion = new mysqli("localhost","autobuses","abc123.","autobuses");
         $error=false;
         if($conexion->connect_errno){
-        $error=$conexion->connect_error;    
+            $error=$conexion->connect_error;    
         }
         ?>
         
