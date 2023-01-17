@@ -4,7 +4,9 @@ class controladorPaciente{
     public static function obtenerTodosPacientes() {
     try {
         $conex = new Conexion();
+        
         $result = $conex->query("SELECT * FROM pacientes");
+        
         if ($result->rowCount()>0) {
             while ($reg = $result->fetchObject()) {
                 $h = new Hospital($reg->nss, $reg->nombre, $reg->fecha_nac,$reg->domicilio, 
